@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+numpy
+scipy
+pandas
+scikit-learn
+tqdm
+langchain
+faiss-cpu
+nltk
